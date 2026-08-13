@@ -1,0 +1,9 @@
+{
+  "id": "battery_saver",
+  "name": "Экономия заряда",
+  "author": "Misha_ShotOS",
+  "type": "trigger",
+  "version": "1.0",
+  "description": "Отключает Bluetooth и Wi-Fi при 15% заряда.",
+  "file": "triggers/battery_saver.marlya"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "auto_backup",
+  "name": "Авто-бэкап",
+  "author": "Misha_ShotOS",
+  "type": "trigger",
+  "version": "1.0",
+  "description": "Создает бэкап системы каждый час.",
+  "file": "triggers/auto_backup.marlya"
+}

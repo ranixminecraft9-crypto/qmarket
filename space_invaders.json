@@ -1,0 +1,9 @@
+{
+  "id": "space_invaders",
+  "name": "Космические захватчики",
+  "author": "Misha_ShotOS",
+  "type": "game",
+  "version": "1.0",
+  "description": "Защити Землю от полчищ пришельцев!",
+  "file": "games/space_invaders.marlya"
+}

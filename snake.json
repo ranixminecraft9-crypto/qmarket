@@ -1,0 +1,9 @@
+{
+  "id": "snake",
+  "name": "Змейка",
+  "author": "Misha_ShotOS",
+  "type": "game",
+  "version": "1.0",
+  "description": "Собери яблоки и не врежься в стену!",
+  "file": "games/snake.marlya"
+}

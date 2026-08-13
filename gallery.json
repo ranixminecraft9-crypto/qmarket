@@ -1,0 +1,9 @@
+{
+  "id": "gallery",
+  "name": "Галерея",
+  "author": "Misha_ShotOS",
+  "type": "app",
+  "version": "1.5",
+  "description": "Просмотр фото и видео в полноэкранном режиме.",
+  "file": "apps/gallery.marlya"
+}

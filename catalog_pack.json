@@ -1,0 +1,60 @@
+{
+  "version": "0.4-03",
+  "types": {
+    "game": {"required": ["id", "name", "author", "type"]},
+    "app": {"required": ["id", "name", "author", "type"]},
+    "script": {"required": ["id", "name", "author", "type"]},
+    "theme": {"required": ["id", "name", "author", "type", "colors"]},
+    "trigger": {"required": ["id", "name", "author", "type"]},
+    "book": {"required": ["id", "name", "author", "type", "text"]}
+  },
+  "items": {
+    "games": [
+      {"id": "shot_racer", "name": "Shot Racer", "author": "Misha", "type": "game", "version": "1.0", "description": "Псевдо-3D гонки с турбо-ускорением", "file": "games/shot_racer.marlya"},
+      {"id": "tetris", "name": "Тетрис", "author": "Misha", "type": "game", "version": "1.2", "description": "Классический тетрис с уровнями", "file": "games/tetris.marlya"},
+      {"id": "snake", "name": "Змейка", "author": "Misha", "type": "game", "version": "1.0", "description": "Собери яблоки и не врежься в стену!", "file": "games/snake.marlya"},
+      {"id": "space_invaders", "name": "Космические захватчики", "author": "Misha", "type": "game", "version": "1.0", "description": "Защити Землю от пришельцев!", "file": "games/space_invaders.marlya"},
+      {"id": "pong", "name": "Pong", "author": "Misha", "type": "game", "version": "1.0", "description": "Классический настольный теннис", "file": "games/pong.marlya"},
+      {"id": "maze", "name": "Лабиринт", "author": "Misha", "type": "game", "version": "1.0", "description": "Найди выход из запутанного лабиринта", "file": "games/maze.marlya"}
+    ],
+    "apps": [
+      {"id": "browser", "name": "Browser 2.0", "author": "Misha", "type": "app", "version": "2.0", "description": "Браузер с полоской загрузки и скачиванием", "file": "apps/browser.marlya"},
+      {"id": "gallery", "name": "Галерея", "author": "Misha", "type": "app", "version": "1.5", "description": "Просмотр фото в полноэкранном режиме", "file": "apps/gallery.marlya"},
+      {"id": "notes", "name": "Заметки", "author": "Misha", "type": "app", "version": "1.0", "description": "Блокнот для быстрых записей", "file": "apps/notes.marlya"},
+      {"id": "camera", "name": "Камера", "author": "Misha", "type": "app", "version": "1.2", "description": "Фото и видеосъемка с фильтрами", "file": "apps/camera.marlya"},
+      {"id": "reader", "name": "Читалка", "author": "Misha", "type": "app", "version": "1.0", "description": "Чтение книг и документов", "file": "apps/reader.marlya"},
+      {"id": "file_manager", "name": "Проводник", "author": "Misha", "type": "app", "version": "1.0", "description": "Управление файлами и папками", "file": "apps/file_manager.marlya"},
+      {"id": "qmarket", "name": "QMarket", "author": "Misha", "type": "app", "version": "1.0", "description": "Магазин приложений ShotOS", "file": "apps/qmarket.marlya"},
+      {"id": "calculator", "name": "Калькулятор", "author": "Misha", "type": "app", "version": "1.0", "description": "Простой калькулятор с историей", "file": "apps/calculator.marlya"},
+      {"id": "clock", "name": "Часы", "author": "Misha", "type": "app", "version": "1.0", "description": "Будильник, таймер и секундомер", "file": "apps/clock.marlya"},
+      {"id": "draw", "name": "Рисовалка", "author": "Misha", "type": "app", "version": "1.0", "description": "Простой графический редактор", "file": "apps/draw.marlya"}
+    ],
+    "scripts": [
+      {"id": "hello_world", "name": "Hello World", "author": "Misha", "type": "script", "version": "1.0", "description": "Первый скрипт на MarlyaScript", "file": "scripts/hello_world.marlya"},
+      {"id": "cleaner", "name": "Очистка системы", "author": "Misha", "type": "script", "version": "1.0", "description": "Очищает временные файлы", "file": "scripts/cleaner.marlya"},
+      {"id": "backup", "name": "Ручной бэкап", "author": "Misha", "type": "script", "version": "1.0", "description": "Создает бэкап системы", "file": "scripts/backup.marlya"},
+      {"id": "wifi_scan", "name": "Сканер Wi-Fi", "author": "Misha", "type": "script", "version": "1.0", "description": "Поиск доступных Wi-Fi сетей", "file": "scripts/wifi_scan.marlya"},
+      {"id": "weather", "name": "Погода", "author": "Misha", "type": "script", "version": "1.0", "description": "Показывает погоду в вашем городе", "file": "scripts/weather.marlya"}
+    ],
+    "themes": [
+      {"id": "dark_theme", "name": "Темная тема", "author": "Misha", "type": "theme", "version": "1.0", "colors": {"background": "#1a1a2e", "text": "#ffffff", "accent": "#e94560"}},
+      {"id": "light_theme", "name": "Светлая тема", "author": "Misha", "type": "theme", "version": "1.0", "colors": {"background": "#ffffff", "text": "#000000", "accent": "#0066ff"}},
+      {"id": "ocean_theme", "name": "Океанская тема", "author": "Misha", "type": "theme", "version": "1.0", "colors": {"background": "#0c2d48", "text": "#b8e6f0", "accent": "#2ea3d6"}},
+      {"id": "forest_theme", "name": "Лесная тема", "author": "Misha", "type": "theme", "version": "1.0", "colors": {"background": "#1a3c2a", "text": "#a8d5a2", "accent": "#4caf50"}},
+      {"id": "sunset_theme", "name": "Закатная тема", "author": "Misha", "type": "theme", "version": "1.0", "colors": {"background": "#2d1b2e", "text": "#ffb07c", "accent": "#ff6b6b"}}
+    ],
+    "triggers": [
+      {"id": "auto_backup", "name": "Авто-бэкап", "author": "Misha", "type": "trigger", "version": "1.0", "description": "Создает бэкап каждый час", "file": "triggers/auto_backup.marlya"},
+      {"id": "night_mode", "name": "Ночной режим", "author": "Misha", "type": "trigger", "version": "1.0", "description": "Включает темную тему в 22:00", "file": "triggers/night_mode.marlya"},
+      {"id": "battery_saver", "name": "Экономия заряда", "author": "Misha", "type": "trigger", "version": "1.0", "description": "Отключает Bluetooth при 20% заряда", "file": "triggers/battery_saver.marlya"},
+      {"id": "welcome_message", "name": "Приветствие", "author": "Misha", "type": "trigger", "version": "1.0", "description": "Показывает приветствие при запуске", "file": "triggers/welcome_message.marlya"}
+    ],
+    "books": [
+      {"id": "marlya_story", "name": "История кота Марли", "author": "Misha", "type": "book", "version": "1.0", "text": "Жил-был кот Марля, шотландский вислоухий, серый, 9 лет с седовыми глазами. Он очень любил стащить сыр со стола и спать на коленях у хозяина. Однажды Марля решил помочь Мише с программированием... И с тех пор они стали лучшей командой разработчиков ShotOS!"},
+      {"id": "shotos_guide", "name": "Руководство по ShotOS", "author": "Misha", "type": "book", "version": "1.0", "text": "ShotOS — это операционная система, созданная Мишей. В ней есть браузер, галерея, заметки, камера и магазин QMarket. Система написана на Flutter и Dart, а скрипты исполняются на MarlyaScript."},
+      {"id": "marlyascript_syntax", "name": "Синтаксис MarlyaScript", "author": "Misha", "type": "book", "version": "1.0", "text": "MarlyaScript — легкий язык для скриптов. Переменные: St, In, By, lo, fl. Объекты: object Имя { поля }. Функции: fun Имя(параметры) {}. Комментарии: ** текст **."},
+      {"id": "how_to_mod", "name": "Создание модов", "author": "Misha", "type": "book", "version": "1.0", "text": "Чтобы создать мод для ShotOS, напиши скрипт на MarlyaScript и добавь его в папку mods. Используй триггеры для автоматизации действий."},
+      {"id": "qmarket_guide", "name": "QMarket для начинающих", "author": "Misha", "type": "book", "version": "1.0", "text": "QMarket — это магазин приложений, игр, скриптов, тем, триггеров и книг. Чтобы добавить свой контент, создай JSON-файл с полями id, name, author, type и другими обязательными полями."}
+    ]
+  }
+}

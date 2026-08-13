@@ -1,0 +1,9 @@
+{
+  "id": "maze",
+  "name": "Лабиринт",
+  "author": "Misha_ShotOS",
+  "type": "game",
+  "version": "1.0",
+  "description": "Найди выход из запутанного 3D-лабиринта.",
+  "file": "games/maze.marlya"
+}

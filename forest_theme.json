@@ -1,0 +1,12 @@
+{
+  "id": "forest_theme",
+  "name": "Лесная тема",
+  "author": "Misha_ShotOS",
+  "type": "theme",
+  "version": "1.0",
+  "colors": {
+    "background": "#1a3c2a",
+    "text": "#a8d5a2",
+    "accent": "#4caf50"
+  }
+}

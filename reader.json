@@ -1,0 +1,9 @@
+{
+  "id": "reader",
+  "name": "Читалка",
+  "author": "Misha_ShotOS",
+  "type": "app",
+  "version": "1.0",
+  "description": "Чтение книг в форматах TXT, JSON и MarlyaBook.",
+  "file": "apps/reader.marlya"
+}

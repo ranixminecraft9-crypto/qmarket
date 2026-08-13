@@ -1,0 +1,8 @@
+{
+  "id": "qmarket_guide",
+  "name": "QMarket для начинающих",
+  "author": "Misha_ShotOS",
+  "type": "book",
+  "version": "1.0",
+  "text": "QMarket — магазин контента для ShotOS. Категории: Игры, Приложения, Скрипты, Темы, Триггеры, Книги. Чтобы добавить свой контент, создай JSON-файл с полями: id, name, author, type и другими обязательными полями. Читай catalog.json!"
+}

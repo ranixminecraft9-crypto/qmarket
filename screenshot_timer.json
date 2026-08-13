@@ -1,0 +1,9 @@
+{
+  "id": "screenshot_timer",
+  "name": "Скриншот по таймеру",
+  "author": "Misha_ShotOS",
+  "type": "trigger",
+  "version": "1.0",
+  "description": "Делает скриншот экрана каждые 10 минут.",
+  "file": "triggers/screenshot_timer.marlya"
+}

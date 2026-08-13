@@ -1,0 +1,9 @@
+{
+  "id": "browser",
+  "name": "Browser 2.0",
+  "author": "Misha_ShotOS",
+  "type": "app",
+  "version": "2.0",
+  "description": "Браузер с полоской загрузки и скачиванием файлов.",
+  "file": "apps/browser.marlya"
+}

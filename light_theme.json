@@ -1,0 +1,12 @@
+{
+  "id": "light_theme",
+  "name": "Светлая тема",
+  "author": "Misha_ShotOS",
+  "type": "theme",
+  "version": "1.0",
+  "colors": {
+    "background": "#ffffff",
+    "text": "#000000",
+    "accent": "#0066ff"
+  }
+}

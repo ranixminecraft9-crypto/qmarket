@@ -1,0 +1,12 @@
+{
+  "id": "sunset_theme",
+  "name": "Закатная тема",
+  "author": "Misha_ShotOS",
+  "type": "theme",
+  "version": "1.0",
+  "colors": {
+    "background": "#2d1b2e",
+    "text": "#ffb07c",
+    "accent": "#ff6b6b"
+  }
+}

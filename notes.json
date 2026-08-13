@@ -1,0 +1,9 @@
+{
+  "id": "notes",
+  "name": "Заметки",
+  "author": "Misha_ShotOS",
+  "type": "app",
+  "version": "1.0",
+  "description": "Блокнот с сохранением и поиском по заметкам.",
+  "file": "apps/notes.marlya"
+}

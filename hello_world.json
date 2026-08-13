@@ -1,0 +1,9 @@
+{
+  "id": "hello_world",
+  "name": "Hello World",
+  "author": "Misha_ShotOS",
+  "type": "script",
+  "version": "1.0",
+  "description": "Первый скрипт на MarlyaScript для новичков.",
+  "file": "scripts/hello_world.marlya"
+}

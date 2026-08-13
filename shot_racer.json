@@ -1,0 +1,9 @@
+{
+  "id": "shot_racer",
+  "name": "Shot Racer",
+  "author": "Misha_ShotOS",
+  "type": "game",
+  "version": "1.0",
+  "description": "Псевдо-3D гонки на скорость! Турбо-ускорение и крутые трассы.",
+  "file": "games/shot_racer.marlya"
+}

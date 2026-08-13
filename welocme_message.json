@@ -1,0 +1,9 @@
+{
+  "id": "welcome_message",
+  "name": "Приветствие",
+  "author": "Misha_ShotOS",
+  "type": "trigger",
+  "version": "1.0",
+  "description": "Показывает приветствие при каждом запуске ShotOS.",
+  "file": "triggers/welcome_message.marlya"
+}

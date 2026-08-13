@@ -1,0 +1,9 @@
+{
+  "id": "wifi_scanner",
+  "name": "Сканер Wi-Fi",
+  "author": "Misha_ShotOS",
+  "type": "script",
+  "version": "1.0",
+  "description": "Находит все доступные Wi-Fi сети рядом.",
+  "file": "scripts/wifi_scanner.marlya"
+}

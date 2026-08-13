@@ -1,0 +1,9 @@
+{
+  "id": "tetris",
+  "name": "Тетрис",
+  "author": "Misha_ShotOS",
+  "type": "game",
+  "version": "1.2",
+  "description": "Классический тетрис с 10 уровнями сложности.",
+  "file": "games/tetris.marlya"
+}

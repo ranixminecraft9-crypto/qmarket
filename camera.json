@@ -1,0 +1,9 @@
+{
+  "id": "camera",
+  "name": "Камера",
+  "author": "Misha_ShotOS",
+  "type": "app",
+  "version": "1.2",
+  "description": "Фото и видеосъемка с 5 фильтрами.",
+  "file": "apps/camera.marlya"
+}

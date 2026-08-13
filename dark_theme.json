@@ -1,0 +1,12 @@
+{
+  "id": "dark_theme",
+  "name": "Темная тема",
+  "author": "Misha_ShotOS",
+  "type": "theme",
+  "version": "1.0",
+  "colors": {
+    "background": "#1a1a2e",
+    "text": "#ffffff",
+    "accent": "#e94560"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.4-03",
+  "types": {
+    "theme":   {"required": ["id", "name", "author", "type", "colors"]},
+    "game":    {"required": ["id", "name", "author", "type"]},
+    "app":     {"required": ["id", "name", "author", "type"]},
+    "script":  {"required": ["id", "name", "author", "type"]},
+    "trigger": {"required": ["id", "name", "author", "type"]},
+    "book":    {"required": ["id", "name", "author", "type", "text"]}
+  }
+}

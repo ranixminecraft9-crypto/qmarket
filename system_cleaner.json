@@ -1,0 +1,9 @@
+{
+  "id": "system_cleaner",
+  "name": "Очистка системы",
+  "author": "Misha_ShotOS",
+  "type": "script",
+  "version": "1.0",
+  "description": "Удаляет временные файлы и кэш.",
+  "file": "scripts/system_cleaner.marlya"
+}

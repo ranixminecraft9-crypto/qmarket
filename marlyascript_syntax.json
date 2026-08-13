@@ -1,0 +1,8 @@
+{
+  "id": "marlyascript_syntax",
+  "name": "Синтаксис MarlyaScript",
+  "author": "Misha_ShotOS",
+  "type": "book",
+  "version": "1.0",
+  "text": "MarlyaScript — легкий язык для скриптов. Типы: St, In, By, lo, fl. Переменные: St $name = текст. Объекты: object Имя { поля }. Функции: fun Имя(параметры) {}. Комментарии: ** текст **. Условия: if(){} и циклы: while(){}."
+}

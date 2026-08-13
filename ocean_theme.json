@@ -1,0 +1,12 @@
+{
+  "id": "ocean_theme",
+  "name": "Океанская тема",
+  "author": "Misha_ShotOS",
+  "type": "theme",
+  "version": "1.0",
+  "colors": {
+    "background": "#0c2d48",
+    "text": "#b8e6f0",
+    "accent": "#2ea3d6"
+  }
+}

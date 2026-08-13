@@ -1,0 +1,9 @@
+{
+  "id": "backup_creator",
+  "name": "Создание бэкапа",
+  "author": "Misha_ShotOS",
+  "type": "script",
+  "version": "1.0",
+  "description": "Создает резервную копию важных файлов.",
+  "file": "scripts/backup_creator.marlya"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "weather_checker",
+  "name": "Проверка погоды",
+  "author": "Misha_ShotOS",
+  "type": "script",
+  "version": "1.0",
+  "description": "Показывает погоду в вашем городе.",
+  "file": "scripts/weather_checker.marlya"
+}

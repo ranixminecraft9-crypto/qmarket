@@ -1,0 +1,9 @@
+{
+  "id": "night_mode",
+  "name": "Ночной режим",
+  "author": "Misha_ShotOS",
+  "type": "trigger",
+  "version": "1.0",
+  "description": "Включает темную тему в 22:00.",
+  "file": "triggers/night_mode.marlya"
+}
